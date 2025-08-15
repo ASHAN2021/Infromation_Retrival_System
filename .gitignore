@@ -5,6 +5,11 @@
 .env.test
 .env.production
 
+# CV Management System files
+cv_files/
+cv_database.json
+vector_store.pkl
+
 # Python
 __pycache__/
 *.py[cod]
